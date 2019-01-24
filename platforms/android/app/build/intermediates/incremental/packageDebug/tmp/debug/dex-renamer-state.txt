@@ -1,0 +1,7 @@
+#Thu Jan 24 16:34:25 GMT 2019
+base.0=/Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/build/intermediates/transforms/dexMerger/debug/1

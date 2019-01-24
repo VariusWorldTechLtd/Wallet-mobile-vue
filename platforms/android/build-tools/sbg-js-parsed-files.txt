@@ -1,0 +1,4 @@
+/Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/assets/app/bundle.js
+/Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/assets/app/vendor.js
+/Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/assets/app/starter.js
+/Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/assets/app/tns-java-classes.js

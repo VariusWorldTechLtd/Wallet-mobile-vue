@@ -1,0 +1,8 @@
+{
+    "android": {
+        "v8Flags": "--expose_gc"
+    },
+    "main": "starter",
+    "name": "wallet-mobile-vue",
+    "version": "1.0.0"
+}

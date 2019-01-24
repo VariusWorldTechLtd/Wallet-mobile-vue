@@ -1,0 +1,17 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"/Users/shane/VWT/Development/Wallet-mobile-vue/app/fonts/.gitkeep": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/shane/VWT/Development/Wallet-mobile-vue/app/app.scss": "0416af3b7f7d5632ac9448e7e8fbd075af63525b",
+		"/Users/shane/VWT/Development/Wallet-mobile-vue/app/assets/images/NativeScript-Vue.png": "31f09bdba72293198ee2e2a83c4fe5aa5744bc3d",
+		"/Users/shane/VWT/Development/Wallet-mobile-vue/app/components/App.vue": "76d9e594525e382841ce55014f1c5de2b855dddb",
+		"/Users/shane/VWT/Development/Wallet-mobile-vue/app/main.js": "27ecbca851c0883ac25aeffa43bfd414c1e69a02",
+		"/Users/shane/VWT/Development/Wallet-mobile-vue/app/package.json": "d634a7a52cdf6c9e63965ad7eb6e8954c1741a14"
+	},
+	"release": false,
+	"bundle": true,
+	"changesRequireBuild": true,
+	"time": "Thu Jan 24 2019 16:33:11 GMT+0000 (GMT)",
+	"changesRequireBuildTime": "Thu Jan 24 2019 16:33:11 GMT+0000 (GMT)",
+	"projectFileHash": "fa76a664f58a52edb5a47d3ab7a87b66c5c9d67b83d637c76bd1689daa730734"
+}

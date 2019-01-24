@@ -1,0 +1,1 @@
+/Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/assets/app

@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/shane/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/e14ef562a85aade2445d9d0f9a3b1eba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01511aaa9905c5d917f0a311d517b0cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7c78b1d1a6c076e66a4f38c21a1b9d22/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25f716f3504496d31fef27a1d1cb1127/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/b1adb5e9c497220966d4e5b4e371afd5/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_socket.io:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript_socket.io.aar/ee10b517285cb717befbe08942d665c2/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /Users/shane/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/f252840e3668aa28c4feae7a6fe80aac/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/8e0ffb22843857e88675be9a4e3efffd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0aafeed752ad9f2c864ec19d9a4959ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7c26e338a49abbc7727f114ba3651537/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6049597b4b80483557b34fbb9b56b93c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/876fad0619695d94b5ef63df62a35550/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/be9caa8b49321b28e6c8872006c516eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8711f8e22825a05b2c6543be09c09b9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b0be719e9943bde899b5a30eb3ada75d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c520f8195c0c5277b6e2f052c6c8c617/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/084fd3a02318fa0adc4849371ab21dba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cbf0eaae0ad63d079e4a8f135786246f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7ee9721afd40ff795bf25ed864b25a30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b0ac13ffc61718e46923b1c6a9646479/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e2548b8c4a36d574756706e9725fad72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/806fabd9cc2957a54d5d4e4ae55837b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5183c9c4e1fdae67611417489f940abc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/24e995988b717d6d53192cbf8a336922/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/82bb083358d2c32c91e83a5b611f056e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/412db04efd93bd2448815362a6499d99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3ae6c57579e9bb46b5fbb821dd7d85a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c8456dfb3d569f9a82773171b1f26b8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/54a0b30a808265c48bab1f8912e1b815/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a22e428699ed10cd7d8cf2985f49333/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9ab7447068274f6a838c4c364e0ae9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2351f50a757278339ecfa14aa9f2f738/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/af76b381fc4050c7feb59560f9315edc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7bead440c0242a2f583f1fc2c666ca6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/668b59df89ed4ff77fb27978ca165e48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d03e608ef6558572eb7f641e41e687d6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:3:64-88
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:3:117-144
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:3:89-116
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:4:5-139
+	android:largeScreens
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:4:80-107
+	android:smallScreens
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:4:23-50
+	android:normalScreens
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:4:51-79
+	android:xlargeScreens
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:4:108-136
+uses-sdk
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+MERGED from [com.android.support:multidex:1.0.2] /Users/shane/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/e14ef562a85aade2445d9d0f9a3b1eba/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/shane/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/e14ef562a85aade2445d9d0f9a3b1eba/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01511aaa9905c5d917f0a311d517b0cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01511aaa9905c5d917f0a311d517b0cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7c78b1d1a6c076e66a4f38c21a1b9d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7c78b1d1a6c076e66a4f38c21a1b9d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25f716f3504496d31fef27a1d1cb1127/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25f716f3504496d31fef27a1d1cb1127/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/b1adb5e9c497220966d4e5b4e371afd5/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/b1adb5e9c497220966d4e5b4e371afd5/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_socket.io:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript_socket.io.aar/ee10b517285cb717befbe08942d665c2/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_socket.io:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript_socket.io.aar/ee10b517285cb717befbe08942d665c2/AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] /Users/shane/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/f252840e3668aa28c4feae7a6fe80aac/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/shane/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/f252840e3668aa28c4feae7a6fe80aac/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/8e0ffb22843857e88675be9a4e3efffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/8e0ffb22843857e88675be9a4e3efffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0aafeed752ad9f2c864ec19d9a4959ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0aafeed752ad9f2c864ec19d9a4959ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7c26e338a49abbc7727f114ba3651537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7c26e338a49abbc7727f114ba3651537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6049597b4b80483557b34fbb9b56b93c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6049597b4b80483557b34fbb9b56b93c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/876fad0619695d94b5ef63df62a35550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/876fad0619695d94b5ef63df62a35550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/be9caa8b49321b28e6c8872006c516eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/be9caa8b49321b28e6c8872006c516eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8711f8e22825a05b2c6543be09c09b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8711f8e22825a05b2c6543be09c09b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b0be719e9943bde899b5a30eb3ada75d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b0be719e9943bde899b5a30eb3ada75d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c520f8195c0c5277b6e2f052c6c8c617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c520f8195c0c5277b6e2f052c6c8c617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/084fd3a02318fa0adc4849371ab21dba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/084fd3a02318fa0adc4849371ab21dba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cbf0eaae0ad63d079e4a8f135786246f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/cbf0eaae0ad63d079e4a8f135786246f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7ee9721afd40ff795bf25ed864b25a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7ee9721afd40ff795bf25ed864b25a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b0ac13ffc61718e46923b1c6a9646479/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b0ac13ffc61718e46923b1c6a9646479/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e2548b8c4a36d574756706e9725fad72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e2548b8c4a36d574756706e9725fad72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/806fabd9cc2957a54d5d4e4ae55837b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/806fabd9cc2957a54d5d4e4ae55837b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5183c9c4e1fdae67611417489f940abc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5183c9c4e1fdae67611417489f940abc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/24e995988b717d6d53192cbf8a336922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/24e995988b717d6d53192cbf8a336922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/82bb083358d2c32c91e83a5b611f056e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/82bb083358d2c32c91e83a5b611f056e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/412db04efd93bd2448815362a6499d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/412db04efd93bd2448815362a6499d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3ae6c57579e9bb46b5fbb821dd7d85a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3ae6c57579e9bb46b5fbb821dd7d85a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c8456dfb3d569f9a82773171b1f26b8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c8456dfb3d569f9a82773171b1f26b8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/54a0b30a808265c48bab1f8912e1b815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/54a0b30a808265c48bab1f8912e1b815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a22e428699ed10cd7d8cf2985f49333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a22e428699ed10cd7d8cf2985f49333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9ab7447068274f6a838c4c364e0ae9d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9ab7447068274f6a838c4c364e0ae9d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2351f50a757278339ecfa14aa9f2f738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2351f50a757278339ecfa14aa9f2f738/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/af76b381fc4050c7feb59560f9315edc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/af76b381fc4050c7feb59560f9315edc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7bead440c0242a2f583f1fc2c666ca6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7bead440c0242a2f583f1fc2c666ca6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/668b59df89ed4ff77fb27978ca165e48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/668b59df89ed4ff77fb27978ca165e48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d03e608ef6558572eb7f641e41e687d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d03e608ef6558572eb7f641e41e687d6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+	android:targetSdkVersion
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:42-71
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		INJECTED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:nativescript_socket.io:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript_socket.io.aar/ee10b517285cb717befbe08942d665c2/AndroidManifest.xml:9:5-67
+MERGED from [:nativescript_socket.io:] /Users/shane/.gradle/caches/transforms-1/files-1.1/nativescript_socket.io.aar/ee10b517285cb717befbe08942d665c2/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:9:5-18:19
+MERGED from [com.android.support:design:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7c78b1d1a6c076e66a4f38c21a1b9d22/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7c78b1d1a6c076e66a4f38c21a1b9d22/AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] /Users/shane/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/f252840e3668aa28c4feae7a6fe80aac/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/shane/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/f252840e3668aa28c4feae7a6fe80aac/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/24e995988b717d6d53192cbf8a336922/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/24e995988b717d6d53192cbf8a336922/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/82bb083358d2c32c91e83a5b611f056e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/82bb083358d2c32c91e83a5b611f056e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/shane/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/24e995988b717d6d53192cbf8a336922/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:9:122-154
+	android:icon
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:9:92-121
+	android:allowBackup
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:9:65-91
+	android:theme
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:9:155-186
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:9:18-64
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:10:63-108
+	android:configChanges
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:10:109-170
+	android:theme
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:10:171-211
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:10:19-62
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:11:13-96
+	android:resource
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:11:59-93
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:11:24-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:14:27-74
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:17:9-64
+	android:name
+		ADDED from /Users/shane/VWT/Development/Wallet-mobile-vue/platforms/android/app/src/main/AndroidManifest.xml:17:19-61
